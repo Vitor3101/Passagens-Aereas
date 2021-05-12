@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\bin\Debug\net5.0\C#_12.05_projeto_passagens_aereas.exe
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\bin\Debug\net5.0\C#_12.05_projeto_passagens_aereas.deps.json
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\bin\Debug\net5.0\C#_12.05_projeto_passagens_aereas.runtimeconfig.json
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\bin\Debug\net5.0\C#_12.05_projeto_passagens_aereas.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\bin\Debug\net5.0\C#_12.05_projeto_passagens_aereas.dll
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\bin\Debug\net5.0\ref\C#_12.05_projeto_passagens_aereas.dll
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\bin\Debug\net5.0\C#_12.05_projeto_passagens_aereas.pdb
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.AssemblyInfo.cs
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.dll
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\ref\C#_12.05_projeto_passagens_aereas.dll
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.pdb
+C:\Users\Dev\Desktop\C#_12.05_projeto_passagens_aereas\obj\Debug\net5.0\C#_12.05_projeto_passagens_aereas.genruntimeconfig.cache

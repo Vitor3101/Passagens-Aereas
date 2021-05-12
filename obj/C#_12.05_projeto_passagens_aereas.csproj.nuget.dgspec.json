@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dev\\Desktop\\C#_12.05_projeto_passagens_aereas\\C#_12.05_projeto_passagens_aereas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dev\\Desktop\\C#_12.05_projeto_passagens_aereas\\C#_12.05_projeto_passagens_aereas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dev\\Desktop\\C#_12.05_projeto_passagens_aereas\\C#_12.05_projeto_passagens_aereas.csproj",
+        "projectName": "C#_12.05_projeto_passagens_aereas",
+        "projectPath": "C:\\Users\\Dev\\Desktop\\C#_12.05_projeto_passagens_aereas\\C#_12.05_projeto_passagens_aereas.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev\\Desktop\\C#_12.05_projeto_passagens_aereas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

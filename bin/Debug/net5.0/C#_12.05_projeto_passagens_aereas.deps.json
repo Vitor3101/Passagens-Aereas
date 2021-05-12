@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C#_12.05_projeto_passagens_aereas/1.0.0": {
+        "runtime": {
+          "C#_12.05_projeto_passagens_aereas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_12.05_projeto_passagens_aereas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
